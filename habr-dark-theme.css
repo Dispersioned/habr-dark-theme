@@ -95,3 +95,17 @@
 #subcriptions_block {
     display: none;
 }
+
+/* код они инлайнят */
+pre {
+    background: #c6c6c6 !important;
+    filter: saturate(3) invert(1);
+}
+
+pre > span[color="#4d4d4c"] {
+    display: none;
+}
+
+code {
+    color: #000 !important;
+}
