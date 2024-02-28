@@ -11,3 +11,7 @@
 ![image](https://github.com/Dispersioned/habr-dark-theme/assets/71058712/bfe7a0f0-dbe6-465f-9946-83bcae61eebe)
 
 4. Вставить стили из файла `habr-dark-theme.css`
+5. Сохраните файл по кнопке в сайдбаре или нажатию на `CTRL+S`
+
+## PR welcomed
+Если вы программист - модифицировать стили через инспектор будет не сложно. В противном случайте создайте issue или напишите мне в [Телеграм](https://t.me/Dispersioned)
