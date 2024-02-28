@@ -79,11 +79,19 @@
 .tm-article-sticky-panel,
 .tm-article-sticky-panel > .tm-data-icons,
 .tm-article-blocks > .tm-block,
-.tm-comments-wrapper__wrapper {
+.tm-comments-wrapper__wrapper,
+.tm-page__top,
+.tm-rss-button_default,
+.tm-articles-list,
+.tm-articles-list__item,
+#news_block_1,
+.tm-pagination
+{
     border-radius: var(--border-radius);
 }
 
 /* реклама */
-.tm-top-link {
+.tm-top-link,
+#subcriptions_block {
     display: none;
 }
