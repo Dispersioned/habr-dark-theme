@@ -1,77 +1,77 @@
 :root {
-/*     текст */
-    --mine-shaft: #d2d2d2;
-    --mountain-mist: #afafaf;
-    --silver: #C0C0C0;
-/*     всякие фоны */
-    --romance: #3c3c3c; 
-    --romance-rgb: 255, 255, 255;
-    --horizon: #42c2ff;
-    --horizon-rgb: 84, 142, 170;
-    --astral: #39728E;
-    --fuzzy-wuzzy-brown: #D04E4E;
-    --fuzzy-wuzzy-brown-rgb: 208, 78, 78;
-    --christi: #8ebe08;
-    --vida-loca: #548221;
-    --vida-loca-rgb: 84, 130, 33;
-    --asphalt: #000;
-    --asphalt-rgb: 0, 0, 0;
-    --shark: #1F2225;
-    --shark-rgb: 31, 34, 37;
-/*     фон шапки и подвала */
-    --limed-spruce: #919191;
-    --limed-spruce-rgb: 48, 59, 68;
-/*     body */
-    --seashell: #6c6c6c;
-    --desert-storm: #5a5a5a;
-/*     вторичные ссылки */
-    --rolling-stone: #ccc;
-    --rolling-stone-rgb: 111, 117, 119;
-    --gull-gray: #c4cad1;
-    --gull-gray-rgb: 146, 156, 165;
-    --loblolly: #cacaca;
-    --frost: #ECF7DF;
-    --linen: #FEEFE1;
-/*     фон уведомлений внизу экрана */
-    --aqua-haze: #256b93;
-    --header-footer-text: var(--romance);
-    --header-footer-text-rgb: var(--romance-rgb);
-    --my-comment: var(--linen);
-    --cerulean: #49ADDF;
-    --mandy: #EF6C82;
-    --emerald: #47C270;
-/*     фон ответа автора в комментариях */
-    --solitude: #3c6964;
-    --misty-rose: #FFE8EB;
-    --gossip: #D2EC93;
-    --anakiwa: #e2e2e2;
-    --mint-green: #99FFA7;
-    --lavender-rose: #FF99F7;
-    --mona-lisa: #FFA299;
-    --pale-canary: #FF9;
-    --dodger-blue: #74b9ff;
-    --dodger-blue-rgb: 35, 133, 231;
-    --sorbus: #F77D05;
-    --sorbus-rgb: 247, 125, 5;
-    --scarlet: #DB0000;
-    --scarlet-rgb: 219, 0, 0;
-    --apple: #1DA53D;
-    --apple-rgb: 29, 165, 61;
-    --deluge: #8e90e8;
-    --deluge-rgb: 102, 103, 163;
-    --dark-orchid: #A400DB;
-    --dark-orchid-rgb: 164, 0, 219;
-    --mulberry: #C23D96;
-    --mulberry-rgb: 194, 61, 150;
-    --pelorous: #099CAA;
-    --pelorous-rgb: 9, 156, 170;
-    --text-light-foreground-base: var(--mountain-mist);
-    --text-normal-foreground-base: var(--mine-shaft);
-    --text-strong-foreground-base: var(--mine-shaft);
-    --formula-filter: invert(0);
-    
-/*     переменные для темной темы */
-    --border-radius: 3px;
+  /*     текст */
+  --mine-shaft: #fff;
+  --mountain-mist: #afafaf;
+  --silver: #c0c0c0;
+  /*     всякие фоны */
+  --romance: #151515;
+  --romance-rgb: 255, 255, 255;
+  --horizon: #42c2ff;
+  --horizon-rgb: 84, 142, 170;
+  --astral: #39728e;
+  --fuzzy-wuzzy-brown: #d04e4e;
+  --fuzzy-wuzzy-brown-rgb: 208, 78, 78;
+  --christi: #8ebe08;
+  --vida-loca: #548221;
+  --vida-loca-rgb: 84, 130, 33;
+  --asphalt: #000;
+  --asphalt-rgb: 0, 0, 0;
+  --shark: #1f2225;
+  --shark-rgb: 31, 34, 37;
+  /*     фон шапки и подвала */
+  --limed-spruce: #919191;
+  --limed-spruce-rgb: 48, 59, 68;
+  /*     body */
+  --seashell: #000;
+  --desert-storm: #5a5a5a;
+  /*     вторичные ссылки */
+  --rolling-stone: #ccc;
+  --rolling-stone-rgb: 111, 117, 119;
+  --gull-gray: #c4cad1;
+  --gull-gray-rgb: 146, 156, 165;
+  --loblolly: #cacaca;
+  --frost: #ecf7df;
+  --linen: #feefe1;
+  /*     фон уведомлений внизу экрана */
+  --aqua-haze: #256b93;
+  --header-footer-text: var(--romance);
+  --header-footer-text-rgb: var(--romance-rgb);
+  --my-comment: var(--linen);
+  --cerulean: #49addf;
+  --mandy: #ef6c82;
+  --emerald: #47c270;
+  /*     фон ответа автора в комментариях */
+  --solitude: #3c6964;
+  --misty-rose: #ffe8eb;
+  --gossip: #d2ec93;
+  --anakiwa: #e2e2e2;
+  --mint-green: #99ffa7;
+  --lavender-rose: #ff99f7;
+  --mona-lisa: #ffa299;
+  --pale-canary: #ff9;
+  --dodger-blue: #74b9ff;
+  --dodger-blue-rgb: 35, 133, 231;
+  --sorbus: #f77d05;
+  --sorbus-rgb: 247, 125, 5;
+  --scarlet: #db0000;
+  --scarlet-rgb: 219, 0, 0;
+  --apple: #1da53d;
+  --apple-rgb: 29, 165, 61;
+  --deluge: #8e90e8;
+  --deluge-rgb: 102, 103, 163;
+  --dark-orchid: #a400db;
+  --dark-orchid-rgb: 164, 0, 219;
+  --mulberry: #c23d96;
+  --mulberry-rgb: 194, 61, 150;
+  --pelorous: #099caa;
+  --pelorous-rgb: 9, 156, 170;
+  --text-light-foreground-base: var(--mountain-mist);
+  --text-normal-foreground-base: var(--mine-shaft);
+  --text-strong-foreground-base: var(--mine-shaft);
+  --formula-filter: invert(0);
+
+  /*     переменные для темной темы */
+  --border-radius: 3px;
 }
 
 .tm-article-presenter__body,
@@ -85,27 +85,26 @@
 .tm-articles-list,
 .tm-articles-list__item,
 #news_block_1,
-.tm-pagination
-{
-    border-radius: var(--border-radius);
+.tm-pagination {
+  border-radius: var(--border-radius);
 }
 
 /* реклама */
 .tm-top-link,
 #subcriptions_block {
-    display: none;
+  display: none;
 }
 
 /* код они инлайнят */
 pre {
-    background: #c6c6c6 !important;
-    filter: saturate(3) invert(1);
+  background: #c6c6c6 !important;
+  filter: saturate(3) invert(1);
 }
 
 pre > span[color="#4d4d4c"] {
-    display: none;
+  display: none;
 }
 
 code {
-    color: #000 !important;
+  color: #000 !important;
 }
