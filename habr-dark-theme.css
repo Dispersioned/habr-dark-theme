@@ -30,7 +30,8 @@
   --gull-gray: #c4cad1;
   --gull-gray-rgb: 146, 156, 165;
   --loblolly: #cacaca;
-  --frost: #ecf7df;
+/*     выделение комментариев автора */
+  --frost: #335d69;
   --linen: #feefe1;
   /*     фон уведомлений внизу экрана */
   --aqua-haze: #256b93;
